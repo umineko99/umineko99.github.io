@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://umineko99.github.io/sitemap.xml
