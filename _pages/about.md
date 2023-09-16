@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i> SGSSS-ESRC Doctoral Training Partnership in Linguistics <\r>
- School of Philosophy, Psychology and Language Science, University of Edinburgh </i>
+subtitle: <i> SGSSS-ESRC Doctoral Training Partnership in Linguistics </i> <\r>
+<i> School of Philosophy, Psychology and Language Science, University of Edinburgh </i>
 
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
