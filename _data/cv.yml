@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Shuya Chen
+      value: Albert Einstein
     - name: Date of Birth
-      value: 26th of June, 1999
+      value: 14th March 1879
     - name: Languages
-      value: Chinese(Mandarin, Cantonese, Teochew), English
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: MSc
-      institution: University of Edinburgh, Edinburgh, United Kingdom
-      year: 2023
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
